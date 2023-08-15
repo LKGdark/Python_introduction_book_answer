@@ -1,0 +1,12 @@
+name=" \t zhang kaijing  \n\t "
+print(name)
+print('-------------------------------------')
+name1=name.lstrip()
+print(name1)
+print('-------------------------------------')
+name2=name.rstrip()
+print(name2)
+print('-------------------------------------')
+name3=name.strip()
+print(name3)
+print('-------------------------------------')
