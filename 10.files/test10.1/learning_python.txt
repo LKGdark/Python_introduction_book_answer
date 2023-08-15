@@ -1,0 +1,3 @@
+In Python you can input your idea to run
+In Python you can creat a dog class
+In Python you can make a game
